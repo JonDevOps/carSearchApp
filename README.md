@@ -3,3 +3,5 @@ practice building an app that you can search a car on and it will aggregate data
 <img width="1465" height="435" alt="Screenshot From 2025-11-17 14-50-27" src="https://github.com/user-attachments/assets/728de501-d098-4eb4-80eb-c42ca8bec72f" />
 
 #screenshot taken from SOURCE: https://www.dealercarsearch.com/
+
+specifically cars.com, autotrader, iseecars, kbb, cargurus, carfax, and truecar
